@@ -129,7 +129,7 @@ a[href]:hover
     height: auto;
 }
 
-.langButton 
+#langButton 
 {
     width: 8%;
     height: auto;
